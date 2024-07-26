@@ -85,7 +85,7 @@ p{
 }
 @media (max-width:425px){
     body{
-        height: 760px;
+        height:660px;
     }
     #title{
         margin:70px;
