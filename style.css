@@ -103,7 +103,8 @@ p{
         margin:5px;
     }
     p{
-        overflow-wrap: break-word;
+        width: 266px;
+        text-align: center;
     }
 }
 
