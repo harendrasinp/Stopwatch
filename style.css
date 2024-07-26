@@ -83,3 +83,26 @@ p{
         overflow-wrap: break-word;
     }
 }
+@media (max-width:465px){
+    body{
+        height:600px;
+    }
+    #title{
+        margin:50px;
+        font-size:30px;
+        color: #051937;
+    }
+    #fram{
+        width:50%;
+        margin-top: -25px;
+    };
+    #btns-fram{
+        width:60%;
+    }
+    .btn{
+        margin:5px;
+    }
+    p{
+        overflow-wrap: break-word;
+    }
+}
