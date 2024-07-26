@@ -83,12 +83,12 @@ p{
         overflow-wrap: break-word;
     }
 }
-@media (max-width:560px){
+@media (max-width:425px){
     body{
-        height:600px;
+        height: 760px;
     }
     #title{
-        margin:50px;
+        margin:70px;
         font-size:30px;
         color: #051937;
     }
@@ -106,3 +106,4 @@ p{
         overflow-wrap: break-word;
     }
 }
+
