@@ -1,5 +1,5 @@
 body{
-    height:591px;
+    height: 607px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -83,7 +83,7 @@ p{
         overflow-wrap: break-word;
     }
 }
-@media (max-width:465px){
+@media (max-width:560px){
     body{
         height:600px;
     }
