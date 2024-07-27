@@ -112,15 +112,6 @@ p{
     #btns-fram{
         width:60%;
     }
-     .tm{
-        font-size: 25px;
-        margin:6px;
-        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        color: #4b2438;
-        padding-right: 10px;
-        font-stretch: condensed;
-        /* font-weight: 700; */
-    }
     .btn{
         margin:5px;
     }
