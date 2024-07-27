@@ -33,12 +33,12 @@ body{
     width:200px;
     border-radius: 8px;
     background-image: linear-gradient(gray,pink);
-    padding: 25px;
+    padding:25px;
     align-self: center;
 }
 .tm{
     font-size: 30px;
-    margin: 5px;
+    margin:2px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #4b2438;
     padding-right: 10px;
