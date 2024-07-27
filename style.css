@@ -29,9 +29,9 @@ body{
 }
 #time-screen{
     display: flex;
+    width:200px
     border-radius: 8px;
     background-image: linear-gradient(gray,pink);
-    padding:25px;
     align-self: center;
 }
 .tm{
