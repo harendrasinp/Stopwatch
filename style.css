@@ -43,8 +43,8 @@ body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #4b2438;
     padding-right: 10px;
+     font-stretch: condensed;
 
-/*     font-weight: 700; */
 }
 #btns-fram{
     margin-top: 50px;
