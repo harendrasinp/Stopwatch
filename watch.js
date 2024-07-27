@@ -104,8 +104,8 @@ function stopWatch() {
         counts.innerHTML = stcounts;
         second.innerHTML = stsec;
         minut.innerHTML = stmin;
-        // setTimeout is runs after every 9 milisecond,
-        timerId = setTimeout("stopWatch()",9);
+        // setTimeout is runs after every 10 milisecond,
+        timerId = setTimeout("stopWatch()",10);
     };
 }
 
