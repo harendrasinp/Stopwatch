@@ -53,6 +53,7 @@ function restartBtnfunc(btn) {
             restartbtn.style.boxShadow = "0px 0px 10px 2px #e6f16a";
             startbtn.style.boxShadow = "none";
             stopbtn.style.boxShadow = "none";
+            timer=false;
             //clearing current setTimeout id to prevent repeat call to setTimeout, when stop restart clicked
             clearTimeout(timerId);
             //  after clicked on restart button here all variables and html Element data becomes "Zero";
