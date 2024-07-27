@@ -92,13 +92,13 @@ function stopWatch() {
         let stmin = min;
         // if condition, to check whether count,sec,min have single digite  or double digit; once they have single digits,concatinate "0" with it;
         if (count < 10) {
-            stcounts =" 0"+stcounts;
+            stcounts ="0"+" "+stcounts;
         }
         if (sec < 10) {
-            stsec =" 0"+stsec;
+            stsec ="0"+" "+stsec;
         }
         if (min < 10) {
-            stmin =" 0"+stmin;
+            stmin ="0"+" "+stmin;
         }
         // add updated value or data in html Element 
         counts.innerHTML = stcounts;
