@@ -29,7 +29,7 @@ body{
 }
 #time-screen{
     display: flex;
-    justify-content: center;
+/*     justify-content: center; */
     background-color: white;
     width:200px;
     border-radius: 8px;
