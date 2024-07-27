@@ -29,7 +29,6 @@ body{
 }
 #time-screen{
     display: flex;
-/*     justify-content: center; */
     background-color: white;
     width:200px;
     border-radius: 8px;
@@ -38,12 +37,10 @@ body{
     align-self: center;
 }
 .tm{
-    font-size: 30px;
-    margin: 5px;
+    font-size:30px;
+    margin:5px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #4b2438;
-    font-stretch: condensed;
-
 }
 #btns-fram{
     margin-top: 50px;
