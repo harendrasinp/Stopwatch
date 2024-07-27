@@ -29,8 +29,8 @@ body{
 }
 #time-screen{
     display: flex;
-    width:200px
-    padding:35px
+    width:200px;
+    padding:25px;
     border-radius: 8px;
     background-image: linear-gradient(gray,pink);
     align-self: center;
@@ -107,14 +107,6 @@ p{
         width:50%;
         margin-top: -25px;
     };
-       #time-screen{
-        display: flex;
-        width:150px;
-        border-radius: 8px;
-        background-image: linear-gradient(gray,pink);
-        padding: 25px;
-        align-self: center;
-    }
     #btns-fram{
         width:60%;
     }
