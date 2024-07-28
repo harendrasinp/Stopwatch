@@ -17,6 +17,7 @@ body{
     display:flex;
     flex-direction: column;
     justify-content:space-between;
+    align-items: center;
     width: 450px;
     height: 150px;
     background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
@@ -29,12 +30,11 @@ body{
 }
 #time-screen{
     display: flex;
-/*     justify-content: center; */
+    justify-content: center;
     border-radius: 8px;
     background-image: linear-gradient(gray,pink);
     width:200px;
     padding: 25px;
-    align-self: center;
 }
 .tm{
     font-size: 30px;
