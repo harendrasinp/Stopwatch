@@ -107,8 +107,8 @@ p{
    
 }
     #btns-fram{
-        margin-top:35px;
-        width:130%;
+    width:130%;
+    padding:8px;
     }
     .btn{
      width:35%;
