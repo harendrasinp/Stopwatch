@@ -93,6 +93,9 @@ p{
 
 }
 @media (max-width:513px){
+    body{
+    height:650px
+            
     #title{
     font-size:35px;
     }
