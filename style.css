@@ -75,8 +75,24 @@ p{
     color: aliceblue;
     opacity: 0.5;
 }
+@media (max-width:650px){
+    #title{
+        font-size:35px;
+     }
+    #fram{
+        width:40%;
+    }
+    #btns-fram{
+        width:127%;
 
-@media (max-width:560px){
+    }
+    .btn{
+     width:29%;
+     margin:19px;
+    }
+
+}
+@media (max-width:513px){
     #title{
     font-size:35px;
     }
