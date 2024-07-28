@@ -92,31 +92,39 @@ p{
     }
 
 }
-@media (max-width:513px){
-    body{
-    height:745px;
-    }       
-    #title{
-    font-size:35px;
-    }
-    #fram{
-        width:50%;
-    }
-    #time-screen{
-    padding:28px;
-   
-}
-    #btns-fram{
-    width:95%;
-    padding:8px;
-    }
-    .btn{
-     width:35%;
-     margin:7px;
+@media (max-width:513px) {
+    body {
+        height: 745px;
     }
 
-}
-/* ------------------------------animation for titel------------------ */
+    #title {
+        font-size: 25px;
+    }
+
+    #fram {
+        width: 80%;
+        padding: 20px;
+    }
+
+    #btns-fram {
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    .btn {
+        width: 30%;
+        margin: 5px;
+    }
+
+    #time-screen {
+        width: 80px; 
+        padding: 10px; 
+    }
+
+    .tm {
+        font-size: 18px; 
+    }
+}/* ------------------------------animation for titel------------------ */
 @keyframes fadein{
     10%{
         opacity: 0;
